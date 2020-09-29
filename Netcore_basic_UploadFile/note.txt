@@ -1,0 +1,10 @@
+﻿Microsoft.AspNetCore.Authentication.Cookies
+Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
+Microsoft.AspNetCore.Identity.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Tools
+
+
+add-migration InitialModel (add migration can be anything you wish to)
+update-database
+
+Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation
